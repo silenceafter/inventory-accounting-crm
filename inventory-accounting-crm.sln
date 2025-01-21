@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventory-accounting-crm", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "identity", "identity\identity.csproj", "{AB9AF8AC-F322-4E7D-9483-FFC7C499DBB0}"
 EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client-app", "client-app\client-app.esproj", "{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{AB9AF8AC-F322-4E7D-9483-FFC7C499DBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB9AF8AC-F322-4E7D-9483-FFC7C499DBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB9AF8AC-F322-4E7D-9483-FFC7C499DBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBFB7716-F976-4DEC-9E7E-77B45A00F86A}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
