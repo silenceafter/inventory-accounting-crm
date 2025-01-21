@@ -1,0 +1,6 @@
+@inventory_accounting_crm_HostAddress = http://localhost:5002
+
+GET {{inventory_accounting_crm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
